@@ -2,38 +2,46 @@
 <Project Type="Project" LVVersion="16008000">
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">false</Property>
 	<Property Name="NI.Project.Description" Type="Str">This project implements a sequence engine that executes user-defined sequences  for control applications in LabVIEW Real-Time.</Property>
-	<Property Name="varPersistentID:{034AD855-7F81-4629-8734-8F55CE5FC6B2}" Type="Ref">/NI-cRIO-9039-Sync-01BE3EB6/Finite State Machine (He Yin)/Lib/Finte State Machine.lvlib/Current state</Property>
-	<Property Name="varPersistentID:{0B27FE8E-B3E0-421F-A057-394BDF92DC99}" Type="Ref">/NI-cRIO-9039-Sync-01BE3EB6/Finite State Machine (He Yin)/Lib/Events.lvlib/Yiwei's_New_Variable</Property>
-	<Property Name="varPersistentID:{0B91CF92-2198-4F77-9EFA-C894A994535A}" Type="Ref">/NI-cRIO-9039-Sync-01BE3EB6/Finite State Machine (He Yin)/Lib/Events.lvlib/Events:GC</Property>
-	<Property Name="varPersistentID:{180CD910-5885-4205-90D4-4D98194A2C07}" Type="Ref">/NI-cRIO-9039-Sync-01BE3EB6/Finite State Machine (He Yin)/Lib/Finte State Machine.lvlib/Flags</Property>
-	<Property Name="varPersistentID:{290C85F0-4C6D-4E06-B468-A246A383E2D1}" Type="Ref">/NI-cRIO-9039-Sync-01BE3EB6/Finite State Machine (He Yin)/Lib/Events.lvlib/Name of Events:G2I_IN</Property>
-	<Property Name="varPersistentID:{358DA204-05A2-4710-A597-E94A3EAAAADD}" Type="Ref">/NI-cRIO-9039-Sync-01BE3EB6/Finite State Machine (He Yin)/Lib/Finte State Machine.lvlib/Current Time</Property>
-	<Property Name="varPersistentID:{376C1301-0A66-4A0F-A29F-AE0D7DCF5992}" Type="Ref">/NI-cRIO-9039-Sync-01BE3EB6/Finite State Machine (He Yin)/Lib/Events.lvlib/Events:BKS</Property>
-	<Property Name="varPersistentID:{436501B0-5DEC-44EA-A20C-F0871644EA03}" Type="Ref">/NI-cRIO-9039-Sync-01BE3EB6/Finite State Machine (He Yin)/Lib/Events.lvlib/Events:OFF</Property>
-	<Property Name="varPersistentID:{479C7C8B-3B79-4E87-A1D6-F01678AA39DA}" Type="Ref">/NI-cRIO-9039-Sync-01BE3EB6/Finite State Machine (He Yin)/Lib/Events.lvlib/Events:I2G</Property>
-	<Property Name="varPersistentID:{4EAF39C3-AAF4-4003-B04B-FAB98386F462}" Type="Ref">/NI-cRIO-9039-Sync-01BE3EB6/Finite State Machine (He Yin)/Lib/Events.lvlib/Name of Events:G2I_UN</Property>
-	<Property Name="varPersistentID:{50FA1602-5A09-437A-B9CD-253E2C492BC8}" Type="Ref">/NI-cRIO-9039-Sync-01BE3EB6/Finite State Machine (He Yin)/Lib/Finte State Machine.lvlib/Event manual panel</Property>
-	<Property Name="varPersistentID:{5FBA692F-6C3D-4B5B-86A2-4689F7D06372}" Type="Ref">/NI-cRIO-9039-Sync-01BE3EB6/Finite State Machine (He Yin)/Lib/Events.lvlib/Events:ABN</Property>
-	<Property Name="varPersistentID:{623DCAFD-E6A8-480A-8E30-21ABD64432A8}" Type="Ref">/NI-cRIO-9039-Sync-01BE3EB6/Finite State Machine (He Yin)/Lib/Events.lvlib/Name of Events:FLT</Property>
-	<Property Name="varPersistentID:{6748926F-4322-43E6-BB00-66C95561D781}" Type="Ref">/NI-cRIO-9039-Sync-01BE3EB6/Finite State Machine (He Yin)/Lib/Events.lvlib/Name of Events:OFF</Property>
-	<Property Name="varPersistentID:{6E25D2B1-5299-4775-AE0E-442575DB189B}" Type="Ref">/NI-cRIO-9039-Sync-01BE3EB6/Finite State Machine (He Yin)/Lib/Events.lvlib/Name of Events:I2G</Property>
-	<Property Name="varPersistentID:{6ED3E622-B295-4262-A2D6-86AA5AAEB923}" Type="Ref">/NI-cRIO-9039-Sync-01BE3EB6/Finite State Machine (He Yin)/Lib/Finte State Machine.lvlib/ALL loop stop</Property>
-	<Property Name="varPersistentID:{94DBF3A4-50F7-4D10-8B02-AB6B90434DE6}" Type="Ref">/NI-cRIO-9039-Sync-01BE3EB6/Finite State Machine (He Yin)/Lib/Functions.lvlib/Functions</Property>
-	<Property Name="varPersistentID:{A1BA1795-43AB-4646-B6C6-F14AEEAA9F24}" Type="Ref">/NI-cRIO-9039-Sync-01BE3EB6/Finite State Machine (He Yin)/Lib/Events.lvlib/Events:G2I_UN</Property>
-	<Property Name="varPersistentID:{A745482F-4E0F-4671-97B8-270B9C687AF4}" Type="Ref">/NI-cRIO-9039-Sync-01BE3EB6/Finite State Machine (He Yin)/Lib/Events.lvlib/Events:G2I_IN</Property>
-	<Property Name="varPersistentID:{AD1CF750-28A4-4473-80BA-0FF41F97C347}" Type="Ref">/NI-cRIO-9039-Sync-01BE3EB6/Finite State Machine (He Yin)/Lib/Events.lvlib/Events:STD</Property>
-	<Property Name="varPersistentID:{B268FD9A-AEED-4A22-8229-AAB2980AA626}" Type="Ref">/NI-cRIO-9039-Sync-01BE3EB6/Finite State Machine (He Yin)/Lib/Finte State Machine.lvlib/Name of state</Property>
-	<Property Name="varPersistentID:{B2B5E406-4CF5-4D84-9EE1-704A0E1061ED}" Type="Ref">/NI-cRIO-9039-Sync-01BE3EB6/Finite State Machine (He Yin)/Lib/Events.lvlib/Name of Events:BKS</Property>
-	<Property Name="varPersistentID:{B582E835-DB76-40B1-BAFC-AF3D831C8BAB}" Type="Ref">/NI-cRIO-9039-Sync-01BE3EB6/Finite State Machine (He Yin)/Lib/Events.lvlib/Name of Events:ABN</Property>
-	<Property Name="varPersistentID:{B6F1CE78-9964-4577-8F03-022CE8F97F4D}" Type="Ref">/NI-cRIO-9039-Sync-01BE3EB6/Finite State Machine (He Yin)/Lib/Events.lvlib/Events:FLT</Property>
-	<Property Name="varPersistentID:{D5A43364-98B0-4838-B543-B82B74981CA2}" Type="Ref">/NI-cRIO-9039-Sync-01BE3EB6/Finite State Machine (He Yin)/Lib/Events.lvlib/Name of Events:STD</Property>
-	<Property Name="varPersistentID:{D8154D2B-376C-4FA3-ACD3-A9235213DFF9}" Type="Ref">/NI-cRIO-9039-Sync-01BE3EB6/Finite State Machine (He Yin)/Lib/Events.lvlib/Name of Events:GC</Property>
-	<Property Name="varPersistentID:{DE0D3E75-4828-4341-A9C5-7616AE46F2C4}" Type="Ref">/NI-cRIO-9039-Sync-01BE3EB6/Finite State Machine (He Yin)/Lib/Finte State Machine.lvlib/Bool of state</Property>
-	<Property Name="varPersistentID:{E182DCA4-6BEF-476B-9BF5-3B0E1DA172A6}" Type="Ref">/NI-cRIO-9039-Sync-01BE3EB6/Finite State Machine (He Yin)/Lib/Finte State Machine.lvlib/Manual turn off</Property>
-	<Property Name="varPersistentID:{E6B9B9DA-CF20-4AE1-BAB7-5587C2E5BAE4}" Type="Ref">/NI-cRIO-9039-Sync-01BE3EB6/Finite State Machine (He Yin)/Lib/Events.lvlib/Events:ISD</Property>
-	<Property Name="varPersistentID:{EE6E0D70-4B72-42E5-B7F3-DE01020D3FF1}" Type="Ref">/NI-cRIO-9039-Sync-01BE3EB6/Finite State Machine (He Yin)/Lib/Functions.lvlib/Name_Function</Property>
-	<Property Name="varPersistentID:{EF871F50-FD70-4DF6-9839-D4E5922D8946}" Type="Ref">/NI-cRIO-9039-Sync-01BE3EB6/Finite State Machine (He Yin)/Lib/Finte State Machine.lvlib/N_flag</Property>
-	<Property Name="varPersistentID:{FF5C6C4C-5004-41E1-8377-9B88F6EF6720}" Type="Ref">/NI-cRIO-9039-Sync-01BE3EB6/Finite State Machine (He Yin)/Lib/Events.lvlib/Name of Events:ISD</Property>
+	<Property Name="PrivateNetwork.CycleTime" Type="Int">1000</Property>
+	<Property Name="PrivateNetwork.GUIDTable" Type="Bin">&amp;A#!!!!!!!1!+E!Q`````S"(65F%,V*F:G6S:7ZD:6:B=EZB&lt;75P1W^N=%FU:7V*2!!!$5!$!!&gt;/&gt;7VF=GFD!'A!]&lt;YKPOU!!!!#*UZ*8U2F&gt;'6S&lt;7FO;8.U;7-A4G6U&gt;W^S;S"1=G^W;72F=CZM&gt;GRJ9B./5%&amp;U&gt;(*J9H6U:5RJ=X1O9X2M!#2!5!!#!!!!!26798*J97*M:3"(65F%)'VB=("J&lt;G=!)%"!!!(`````!!)44G^E:3""&gt;(2S;7*V&gt;'5A4'FT&gt;!!"!!-!!!!!!!!!!!</Property>
+	<Property Name="PrivateNetwork.NetworkName" Type="Str">Network_0</Property>
+	<Property Name="PrivateNetwork.NetworkSpeed" Type="UInt">0</Property>
+	<Property Name="PrivateNetwork.NetworkType" Type="UInt">1</Property>
+	<Property Name="PrivateNetwork.NumComputingDevices" Type="Int">0</Property>
+	<Property Name="PrivateNetwork.SMBOffset" Type="Int">66</Property>
+	<Property Name="PrivateNetwork.UDPPort" Type="UInt">40000</Property>
+	<Property Name="varPersistentID:{034AD855-7F81-4629-8734-8F55CE5FC6B2}" Type="Ref">/NI-cRIO-9039-Sync-01BE3EB6/MGCC_FntStaMach/Lib/MGCC_FntStaMach_Finte State Machine.lvlib/s_MGCC_FntStaMach_Current_State</Property>
+	<Property Name="varPersistentID:{0B91CF92-2198-4F77-9EFA-C894A994535A}" Type="Ref">/NI-cRIO-9039-Sync-01BE3EB6/MGCC_FntStaMach/Lib/MGCC_FntStaMach_Events.lvlib/b_MGCC_FntStaMach_Events_GC</Property>
+	<Property Name="varPersistentID:{180CD910-5885-4205-90D4-4D98194A2C07}" Type="Ref">/NI-cRIO-9039-Sync-01BE3EB6/MGCC_FntStaMach/Lib/MGCC_FntStaMach_Finte State Machine.lvlib/b_MGCC_FntStaMach_Flags</Property>
+	<Property Name="varPersistentID:{290C85F0-4C6D-4E06-B468-A246A383E2D1}" Type="Ref">/NI-cRIO-9039-Sync-01BE3EB6/MGCC_FntStaMach/Lib/MGCC_FntStaMach_Events.lvlib/s_MGCC_FntStaMach_Events_G2I_IN</Property>
+	<Property Name="varPersistentID:{358DA204-05A2-4710-A597-E94A3EAAAADD}" Type="Ref">/NI-cRIO-9039-Sync-01BE3EB6/MGCC_FntStaMach/Lib/MGCC_FntStaMach_Finte State Machine.lvlib/s_MGCC_FntStaMach_Current_Time</Property>
+	<Property Name="varPersistentID:{376C1301-0A66-4A0F-A29F-AE0D7DCF5992}" Type="Ref">/NI-cRIO-9039-Sync-01BE3EB6/MGCC_FntStaMach/Lib/MGCC_FntStaMach_Events.lvlib/b_MGCC_FntStaMach_Events_BKS</Property>
+	<Property Name="varPersistentID:{436501B0-5DEC-44EA-A20C-F0871644EA03}" Type="Ref">/NI-cRIO-9039-Sync-01BE3EB6/MGCC_FntStaMach/Lib/MGCC_FntStaMach_Events.lvlib/b_MGCC_FntStaMach_Events_OFF</Property>
+	<Property Name="varPersistentID:{479C7C8B-3B79-4E87-A1D6-F01678AA39DA}" Type="Ref">/NI-cRIO-9039-Sync-01BE3EB6/MGCC_FntStaMach/Lib/MGCC_FntStaMach_Events.lvlib/b_MGCC_FntStaMach_Events_I2G</Property>
+	<Property Name="varPersistentID:{4EAF39C3-AAF4-4003-B04B-FAB98386F462}" Type="Ref">/NI-cRIO-9039-Sync-01BE3EB6/MGCC_FntStaMach/Lib/MGCC_FntStaMach_Events.lvlib/s_MGCC_FntStaMach_Events_G2I_UN</Property>
+	<Property Name="varPersistentID:{50FA1602-5A09-437A-B9CD-253E2C492BC8}" Type="Ref">/NI-cRIO-9039-Sync-01BE3EB6/MGCC_FntStaMach/Lib/MGCC_FntStaMach_Finte State Machine.lvlib/b_MGCC_FntStaMach_Event_Manual_Panel</Property>
+	<Property Name="varPersistentID:{5FBA692F-6C3D-4B5B-86A2-4689F7D06372}" Type="Ref">/NI-cRIO-9039-Sync-01BE3EB6/MGCC_FntStaMach/Lib/MGCC_FntStaMach_Events.lvlib/b_MGCC_FntStaMach_Events_ABN</Property>
+	<Property Name="varPersistentID:{623DCAFD-E6A8-480A-8E30-21ABD64432A8}" Type="Ref">/NI-cRIO-9039-Sync-01BE3EB6/MGCC_FntStaMach/Lib/MGCC_FntStaMach_Events.lvlib/s_MGCC_FntStaMach_Events_FLT</Property>
+	<Property Name="varPersistentID:{6748926F-4322-43E6-BB00-66C95561D781}" Type="Ref">/NI-cRIO-9039-Sync-01BE3EB6/MGCC_FntStaMach/Lib/MGCC_FntStaMach_Events.lvlib/s_MGCC_FntStaMach_Events_OFF</Property>
+	<Property Name="varPersistentID:{6E25D2B1-5299-4775-AE0E-442575DB189B}" Type="Ref">/NI-cRIO-9039-Sync-01BE3EB6/MGCC_FntStaMach/Lib/MGCC_FntStaMach_Events.lvlib/s_MGCC_FntStaMach_Events_I2G</Property>
+	<Property Name="varPersistentID:{6ED3E622-B295-4262-A2D6-86AA5AAEB923}" Type="Ref">/NI-cRIO-9039-Sync-01BE3EB6/MGCC_FntStaMach/Lib/MGCC_FntStaMach_Finte State Machine.lvlib/b_MGCC_FntStaMach_All_Loop_Stop</Property>
+	<Property Name="varPersistentID:{94DBF3A4-50F7-4D10-8B02-AB6B90434DE6}" Type="Ref">/NI-cRIO-9039-Sync-01BE3EB6/MGCC_FntStaMach/Lib/MGCC_FntStaMach_Functions.lvlib/b_MGCC_FntStaMach_Functions</Property>
+	<Property Name="varPersistentID:{A1BA1795-43AB-4646-B6C6-F14AEEAA9F24}" Type="Ref">/NI-cRIO-9039-Sync-01BE3EB6/MGCC_FntStaMach/Lib/MGCC_FntStaMach_Events.lvlib/b_MGCC_FntStaMach_Events_G2I_UN</Property>
+	<Property Name="varPersistentID:{A745482F-4E0F-4671-97B8-270B9C687AF4}" Type="Ref">/NI-cRIO-9039-Sync-01BE3EB6/MGCC_FntStaMach/Lib/MGCC_FntStaMach_Events.lvlib/b_MGCC_FntStaMach_Events_G2I_IN</Property>
+	<Property Name="varPersistentID:{AD1CF750-28A4-4473-80BA-0FF41F97C347}" Type="Ref">/NI-cRIO-9039-Sync-01BE3EB6/MGCC_FntStaMach/Lib/MGCC_FntStaMach_Events.lvlib/b_MGCC_FntStaMach_Events_STD</Property>
+	<Property Name="varPersistentID:{B268FD9A-AEED-4A22-8229-AAB2980AA626}" Type="Ref">/NI-cRIO-9039-Sync-01BE3EB6/MGCC_FntStaMach/Lib/MGCC_FntStaMach_Finte State Machine.lvlib/s_MGCC_FntStaMach_State</Property>
+	<Property Name="varPersistentID:{B2B5E406-4CF5-4D84-9EE1-704A0E1061ED}" Type="Ref">/NI-cRIO-9039-Sync-01BE3EB6/MGCC_FntStaMach/Lib/MGCC_FntStaMach_Events.lvlib/s_MGCC_FntStaMach_Events_BKS</Property>
+	<Property Name="varPersistentID:{B5056E89-7CD4-46F1-B779-48A895DE330E}" Type="Ref">/NI-cRIO-9039-Sync-01BE3EB6/MGCC_FntStaMach/Lib/MGCC_FntStaMach_Parameters.lvlib/f_MGCC_FntStaMach_PID_Example</Property>
+	<Property Name="varPersistentID:{B582E835-DB76-40B1-BAFC-AF3D831C8BAB}" Type="Ref">/NI-cRIO-9039-Sync-01BE3EB6/MGCC_FntStaMach/Lib/MGCC_FntStaMach_Events.lvlib/s_MGCC_FntStaMach_Events_ABN</Property>
+	<Property Name="varPersistentID:{B6F1CE78-9964-4577-8F03-022CE8F97F4D}" Type="Ref">/NI-cRIO-9039-Sync-01BE3EB6/MGCC_FntStaMach/Lib/MGCC_FntStaMach_Events.lvlib/b_MGCC_FntStaMach_Events_FLT</Property>
+	<Property Name="varPersistentID:{D5A43364-98B0-4838-B543-B82B74981CA2}" Type="Ref">/NI-cRIO-9039-Sync-01BE3EB6/MGCC_FntStaMach/Lib/MGCC_FntStaMach_Events.lvlib/s_MGCC_FntStaMach_Events_STD</Property>
+	<Property Name="varPersistentID:{D8154D2B-376C-4FA3-ACD3-A9235213DFF9}" Type="Ref">/NI-cRIO-9039-Sync-01BE3EB6/MGCC_FntStaMach/Lib/MGCC_FntStaMach_Events.lvlib/s_MGCC_FntStaMach_Events_GC</Property>
+	<Property Name="varPersistentID:{DE0D3E75-4828-4341-A9C5-7616AE46F2C4}" Type="Ref">/NI-cRIO-9039-Sync-01BE3EB6/MGCC_FntStaMach/Lib/MGCC_FntStaMach_Finte State Machine.lvlib/b_MGCC_FntStaMach_State</Property>
+	<Property Name="varPersistentID:{E182DCA4-6BEF-476B-9BF5-3B0E1DA172A6}" Type="Ref">/NI-cRIO-9039-Sync-01BE3EB6/MGCC_FntStaMach/Lib/MGCC_FntStaMach_Finte State Machine.lvlib/b_MGCC_FntStaMach_Manual_Turn_Off</Property>
+	<Property Name="varPersistentID:{E6B9B9DA-CF20-4AE1-BAB7-5587C2E5BAE4}" Type="Ref">/NI-cRIO-9039-Sync-01BE3EB6/MGCC_FntStaMach/Lib/MGCC_FntStaMach_Events.lvlib/b_MGCC_FntStaMach_Events_ISD</Property>
+	<Property Name="varPersistentID:{EE6E0D70-4B72-42E5-B7F3-DE01020D3FF1}" Type="Ref">/NI-cRIO-9039-Sync-01BE3EB6/MGCC_FntStaMach/Lib/MGCC_FntStaMach_Functions.lvlib/s_MGCC_FntStaMach_Function</Property>
+	<Property Name="varPersistentID:{EF871F50-FD70-4DF6-9839-D4E5922D8946}" Type="Ref">/NI-cRIO-9039-Sync-01BE3EB6/MGCC_FntStaMach/Lib/MGCC_FntStaMach_Finte State Machine.lvlib/s_MGCC_FntStaMach_Flags</Property>
+	<Property Name="varPersistentID:{FF5C6C4C-5004-41E1-8377-9B88F6EF6720}" Type="Ref">/NI-cRIO-9039-Sync-01BE3EB6/MGCC_FntStaMach/Lib/MGCC_FntStaMach_Events.lvlib/s_MGCC_FntStaMach_Events_ISD</Property>
 	<Item Name="My Computer" Type="My Computer">
 		<Property Name="NI.SortType" Type="Int">3</Property>
 		<Property Name="server.app.propertiesEnabled" Type="Bool">true</Property>
@@ -601,51 +609,65 @@ AddOutputFilter chunkFilter
 		<Property Name="target.WebServer.ViAccess" Type="Str">+*</Property>
 		<Property Name="target.webservices.SecurityAPIKey" Type="Str">PqVr/ifkAQh+lVrdPIykXlFvg12GhhQFR8H9cUhphgg=:pTe9HRlQuMfJxAG6QCGq7UvoUpJzAzWGKy5SbZ+roSU=</Property>
 		<Property Name="target.webservices.ValidTimestampWindow" Type="Int">15</Property>
-		<Item Name="Documentation" Type="Folder">
-			<Item Name="Readme.docx" Type="Document" URL="../Documentation/Readme.docx"/>
-			<Item Name="VI standard version 1.docx" Type="Document" URL="../Documentation/VI standard version 1.docx"/>
-		</Item>
-		<Item Name="Finite State Machine (He Yin)" Type="Folder">
+		<Item Name="MGCC_BlkStart" Type="Folder"/>
+		<Item Name="MGCC_Commun" Type="Folder"/>
+		<Item Name="MGCC_DataLog" Type="Folder"/>
+		<Item Name="MGCC_EnergyMgmt" Type="Folder"/>
+		<Item Name="MGCC_EvtRecd" Type="Folder"/>
+		<Item Name="MGCC_FntStaMach" Type="Folder">
+			<Item Name="Documentation" Type="Folder">
+				<Item Name="Labview_rules_to_write.docx" Type="Document" URL="../Documentation/Labview_rules_to_write.docx"/>
+				<Item Name="name convention.xlsx" Type="Document" URL="../Documentation/name convention.xlsx"/>
+				<Item Name="Readme.docx" Type="Document" URL="../Documentation/Readme.docx"/>
+				<Item Name="VI standard version 2.docx" Type="Document" URL="../Documentation/VI standard version 2.docx"/>
+			</Item>
 			<Item Name="Lib" Type="Folder">
-				<Item Name="Events.lvlib" Type="Library" URL="../Finite State Machine (He Yin)/Lib/Events.lvlib"/>
-				<Item Name="Finte State Machine.lvlib" Type="Library" URL="../Finite State Machine (He Yin)/Lib/Finte State Machine.lvlib"/>
-				<Item Name="Functions.lvlib" Type="Library" URL="../Finite State Machine (He Yin)/Lib/Functions.lvlib"/>
+				<Item Name="MGCC_FntStaMach_Events.lvlib" Type="Library" URL="../Finite State Machine (He Yin)/Lib/MGCC_FntStaMach_Events.lvlib"/>
+				<Item Name="MGCC_FntStaMach_Finte State Machine.lvlib" Type="Library" URL="../Finite State Machine (He Yin)/Lib/MGCC_FntStaMach_Finte State Machine.lvlib"/>
+				<Item Name="MGCC_FntStaMach_Functions.lvlib" Type="Library" URL="../Finite State Machine (He Yin)/Lib/MGCC_FntStaMach_Functions.lvlib"/>
+				<Item Name="MGCC_FntStaMach_Parameters.lvlib" Type="Library" URL="../Finite State Machine (He Yin)/Lib/MGCC_FntStaMach_Parameters.lvlib"/>
 			</Item>
 			<Item Name="Sub-VIs" Type="Folder">
 				<Item Name="Controllers" Type="Folder">
-					<Item Name="Control panel loop.vi" Type="VI" URL="../Finite State Machine (He Yin)/Sub-VIs/Control panel loop.vi"/>
-					<Item Name="FSM loop.vi" Type="VI" URL="../Finite State Machine (He Yin)/Sub-VIs/FSM loop.vi"/>
+					<Item Name="MGCC_FntStaMach_Control panel loop.vi" Type="VI" URL="../Finite State Machine (He Yin)/Sub-VIs/MGCC_FntStaMach_Control panel loop.vi"/>
+					<Item Name="MGCC_FntStaMach_FSM loop.vi" Type="VI" URL="../Finite State Machine (He Yin)/Sub-VIs/MGCC_FntStaMach_FSM loop.vi"/>
 				</Item>
 				<Item Name="Convert" Type="Folder">
-					<Item Name="flagtoevent.vi" Type="VI" URL="../Finite State Machine (He Yin)/Sub-VIs/flagtoevent.vi"/>
+					<Item Name="MGCC_FntStaMach_Flagtoevent.vi" Type="VI" URL="../Finite State Machine (He Yin)/Sub-VIs/MGCC_FntStaMach_Flagtoevent.vi"/>
 				</Item>
 				<Item Name="Initial" Type="Folder">
-					<Item Name="initial_event.vi" Type="VI" URL="../Finite State Machine (He Yin)/Sub-VIs/initial_event.vi"/>
-					<Item Name="initial_flag.vi" Type="VI" URL="../Finite State Machine (He Yin)/Sub-VIs/initial_flag.vi"/>
-					<Item Name="initial_function.vi" Type="VI" URL="../Finite State Machine (He Yin)/Sub-VIs/initial_function.vi"/>
-					<Item Name="initialization.vi" Type="VI" URL="../Finite State Machine (He Yin)/Sub-VIs/initialization.vi"/>
+					<Item Name="MGCC_FntStaMach_Initial_event.vi" Type="VI" URL="../Finite State Machine (He Yin)/Sub-VIs/MGCC_FntStaMach_Initial_event.vi"/>
+					<Item Name="MGCC_FntStaMach_Initial_flag.vi" Type="VI" URL="../Finite State Machine (He Yin)/Sub-VIs/MGCC_FntStaMach_Initial_flag.vi"/>
+					<Item Name="MGCC_FntStaMach_Initial_function.vi" Type="VI" URL="../Finite State Machine (He Yin)/Sub-VIs/MGCC_FntStaMach_Initial_function.vi"/>
+					<Item Name="MGCC_FntStaMach_Initialization.vi" Type="VI" URL="../Finite State Machine (He Yin)/Sub-VIs/MGCC_FntStaMach_Initialization.vi"/>
 				</Item>
 				<Item Name="Interrupts" Type="Folder">
-					<Item Name="Interrupt_1min.vi" Type="VI" URL="../Finite State Machine (He Yin)/Sub-VIs/Interrupt_1min.vi"/>
-					<Item Name="Interrupt_100ms.vi" Type="VI" URL="../Finite State Machine (He Yin)/Sub-VIs/Interrupt_100ms.vi"/>
+					<Item Name="MGCC_FntStaMach_Interrupt_1min.vi" Type="VI" URL="../Finite State Machine (He Yin)/Sub-VIs/MGCC_FntStaMach_Interrupt_1min.vi"/>
+					<Item Name="MGCC_FntStaMach_Interrupt_100ms.vi" Type="VI" URL="../Finite State Machine (He Yin)/Sub-VIs/MGCC_FntStaMach_Interrupt_100ms.vi"/>
 				</Item>
-				<Item Name="Others" Type="Folder">
-					<Item Name="Yiwei_New_VI.vi" Type="VI" URL="../Finite State Machine (He Yin)/Sub-VIs/Yiwei_New_VI.vi"/>
-				</Item>
+				<Item Name="Others" Type="Folder"/>
 				<Item Name="Panels" Type="Folder">
-					<Item Name="Flag manual panel.vi" Type="VI" URL="../Finite State Machine (He Yin)/Sub-VIs/Flag manual panel.vi"/>
-					<Item Name="Manual panel.vi" Type="VI" URL="../Finite State Machine (He Yin)/Sub-VIs/Manual panel.vi"/>
+					<Item Name="MGCC_FntStaMach_Flag manual panel.vi" Type="VI" URL="../Finite State Machine (He Yin)/Sub-VIs/MGCC_FntStaMach_Flag manual panel.vi"/>
+					<Item Name="MGCC_FntStaMach_Manual panel.vi" Type="VI" URL="../Finite State Machine (He Yin)/Sub-VIs/MGCC_FntStaMach_Manual panel.vi"/>
+				</Item>
+				<Item Name="Parameter" Type="Folder">
+					<Item Name="MGCC_FntStaMach_Parameter record.vi" Type="VI" URL="../Finite State Machine (He Yin)/Sub-VIs/MGCC_FntStaMach_Parameter record.vi"/>
 				</Item>
 				<Item Name="System time" Type="Folder">
-					<Item Name="system_time.vi" Type="VI" URL="../Finite State Machine (He Yin)/Sub-VIs/system_time.vi"/>
+					<Item Name="MGCC_FntStaMach_system_time.vi" Type="VI" URL="../Finite State Machine (He Yin)/Sub-VIs/MGCC_FntStaMach_system_time.vi"/>
 				</Item>
 				<Item Name="Watchdog" Type="Folder">
-					<Item Name="Watchdog.vi" Type="VI" URL="../Finite State Machine (He Yin)/Sub-VIs/Watchdog.vi"/>
+					<Item Name="MGCC_FntStaMach_Watchdog.vi" Type="VI" URL="../Finite State Machine (He Yin)/Sub-VIs/MGCC_FntStaMach_Watchdog.vi"/>
 				</Item>
 			</Item>
-			<Item Name="FSM_main.vi" Type="VI" URL="../FSM_main.vi"/>
+			<Item Name="MGCC_FntStaMach_main.vi" Type="VI" URL="../MGCC_FntStaMach_main.vi"/>
 		</Item>
-		<Item Name="State Estimation (Lin Zhu)" Type="Folder"/>
+		<Item Name="MGCC_LoadFcst" Type="Folder"/>
+		<Item Name="MGCC_MdlMgmt" Type="Folder"/>
+		<Item Name="MGCC_PQBal" Type="Folder"/>
+		<Item Name="MGCC_ProtCoord" Type="Folder"/>
+		<Item Name="MGCC_PVFcst" Type="Folder"/>
+		<Item Name="MGCC_StaEst" Type="Folder"/>
 		<Item Name="Chassis" Type="cRIO Chassis">
 			<Property Name="crio.ProgrammingMode" Type="Str">fpga</Property>
 			<Property Name="crio.ResourceID" Type="Str">RIO0</Property>
@@ -849,6 +871,60 @@ AddOutputFilter chunkFilter
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
 		</Item>
+		<Item Name="Build Specifications" Type="Build"/>
+	</Item>
+	<Item Name="NI-cRIO-9039-Sync-01C79FFE" Type="RT CompactRIO">
+		<Property Name="alias.name" Type="Str">NI-cRIO-9039-Sync-01C79FFE</Property>
+		<Property Name="alias.value" Type="Str">160.36.58.216</Property>
+		<Property Name="CCSymbols" Type="Str">TARGET_TYPE,RT;OS,Linux;CPU,x64;DeviceCode,7878;</Property>
+		<Property Name="crio.ControllerPID" Type="Str">7878</Property>
+		<Property Name="host.ResponsivenessCheckEnabled" Type="Bool">true</Property>
+		<Property Name="host.ResponsivenessCheckPingDelay" Type="UInt">5000</Property>
+		<Property Name="host.ResponsivenessCheckPingTimeout" Type="UInt">1000</Property>
+		<Property Name="host.TargetCPUID" Type="UInt">9</Property>
+		<Property Name="host.TargetOSID" Type="UInt">19</Property>
+		<Property Name="host.TargetUIEnabled" Type="Bool">false</Property>
+		<Property Name="target.cleanupVisa" Type="Bool">false</Property>
+		<Property Name="target.FPProtocolGlobals_ControlTimeLimit" Type="Int">300</Property>
+		<Property Name="target.getDefault-&gt;WebServer.Port" Type="Int">80</Property>
+		<Property Name="target.getDefault-&gt;WebServer.Timeout" Type="Int">60</Property>
+		<Property Name="target.IOScan.Faults" Type="Str"></Property>
+		<Property Name="target.IOScan.NetVarPeriod" Type="UInt">100</Property>
+		<Property Name="target.IOScan.NetWatchdogEnabled" Type="Bool">false</Property>
+		<Property Name="target.IOScan.Period" Type="UInt">10000</Property>
+		<Property Name="target.IOScan.PowerupMode" Type="UInt">0</Property>
+		<Property Name="target.IOScan.Priority" Type="UInt">0</Property>
+		<Property Name="target.IOScan.ReportModeConflict" Type="Bool">true</Property>
+		<Property Name="target.IsRemotePanelSupported" Type="Bool">true</Property>
+		<Property Name="target.RTCPULoadMonitoringEnabled" Type="Bool">true</Property>
+		<Property Name="target.RTDebugWebServerHTTPPort" Type="Int">8001</Property>
+		<Property Name="target.RTTarget.ApplicationPath" Type="Path">/c/ni-rt/startup/startup.rtexe</Property>
+		<Property Name="target.RTTarget.EnableFileSharing" Type="Bool">true</Property>
+		<Property Name="target.RTTarget.IPAccess" Type="Str">+*</Property>
+		<Property Name="target.RTTarget.LaunchAppAtBoot" Type="Bool">false</Property>
+		<Property Name="target.RTTarget.VIPath" Type="Path">/home/lvuser/natinst/bin</Property>
+		<Property Name="target.server.app.propertiesEnabled" Type="Bool">true</Property>
+		<Property Name="target.server.control.propertiesEnabled" Type="Bool">true</Property>
+		<Property Name="target.server.tcp.access" Type="Str">+*</Property>
+		<Property Name="target.server.tcp.enabled" Type="Bool">false</Property>
+		<Property Name="target.server.tcp.paranoid" Type="Bool">true</Property>
+		<Property Name="target.server.tcp.port" Type="Int">3363</Property>
+		<Property Name="target.server.tcp.serviceName" Type="Str">Main Application Instance/VI Server</Property>
+		<Property Name="target.server.tcp.serviceName.default" Type="Str">Main Application Instance/VI Server</Property>
+		<Property Name="target.server.vi.access" Type="Str">+*</Property>
+		<Property Name="target.server.vi.callsEnabled" Type="Bool">true</Property>
+		<Property Name="target.server.vi.propertiesEnabled" Type="Bool">true</Property>
+		<Property Name="target.WebServer.Enabled" Type="Bool">false</Property>
+		<Property Name="target.WebServer.LogEnabled" Type="Bool">false</Property>
+		<Property Name="target.WebServer.LogPath" Type="Path">/c/ni-rt/system/www/www.log</Property>
+		<Property Name="target.WebServer.Port" Type="Int">80</Property>
+		<Property Name="target.WebServer.RootPath" Type="Path">/c/ni-rt/system/www</Property>
+		<Property Name="target.WebServer.TcpAccess" Type="Str">c+*</Property>
+		<Property Name="target.WebServer.Timeout" Type="Int">60</Property>
+		<Property Name="target.WebServer.ViAccess" Type="Str">+*</Property>
+		<Property Name="target.webservices.SecurityAPIKey" Type="Str">PqVr/ifkAQh+lVrdPIykXlFvg12GhhQFR8H9cUhphgg=:pTe9HRlQuMfJxAG6QCGq7UvoUpJzAzWGKy5SbZ+roSU=</Property>
+		<Property Name="target.webservices.ValidTimestampWindow" Type="Int">15</Property>
+		<Item Name="Dependencies" Type="Dependencies"/>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
 </Project>
